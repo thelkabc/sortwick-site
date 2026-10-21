@@ -1,0 +1,2 @@
+# app-ads.txt for Sortwick (served at https://sortwick.com/app-ads.txt). See docs/ADS.md.
+google.com, pub-2942737523986826, DIRECT, f08c47fec0942fa0
