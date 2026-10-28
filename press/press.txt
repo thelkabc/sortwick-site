@@ -1,0 +1,61 @@
+SORTWICK: GOODS SORT PUZZLE - PRESS KIT
+https://sortwick.com/press/
+Contact: support@sortwick.com
+
+SHORT DESCRIPTION
+Sortwick is a cozy goods-sorting puzzle for iPhone: tidy shelves, pop triples and bring the seaside town of Saltwick back to life, with residents who walk and talk, six new tricks, SUPER HARD levels and a real challenge. Free, plays offline, no account.
+
+LONG DESCRIPTION
+Tidy the shelves. Pop the triples. Bring a seaside town back to life, and meet the people who live there.
+
+Sortwick is a goods-sorting puzzle with a cozy heart and a real challenge. Move items between shelves and make sets of three to clear them. Every level is solvable, and every win earns stars you spend restoring Saltwick, one lighthouse, cafe and lantern at a time.
+
+A TOWN THAT TALKS BACK
+- Seven areas to restore, from Saltwick Harbor to the Harbor Lights Festival, then islands beyond
+- Residents like Nan, Basil, Clementine and Mara move in once their homes are fixed: they stroll the promenade, and a tap gets you a line
+- Every restore is a short conversation: the resident speaks, Pip the harbor gull answers
+- Choose the look of each place you restore
+- The bakery and the lighthouse do something: Basil's breakfast adds 2 moves to your first level of the day, and the lighthouse keeper pays your first Daily Challenge retry
+
+NEW TRICKS, ONE AT A TIME
+- Cracked shelves, chutes, carousels, counters, blizzards and order tickets join ice, locks, gifts, chains, crates, fog, rush levels and the belt
+- A Level Start sheet shows each new trick on the level's own goods before your first move, and the How-to-play guide keeps every rule one tap away
+- Tricks pair up, variants arrive, and double shifts send a second wave of goods onto the board
+
+A REAL CHALLENGE
+- Difficulty rises for real: HARD levels, SUPER HARD levels, boss levels, mystery levels and calm breathers
+- Boards come as towers, staircases, split columns, open shelves and more
+- Undo, Shuffle and Magnet boosters when you want them, never forced on you
+
+MORE TO DO
+- Daily gifts, quests, a Daily Challenge, a weekly Sea Race and a 28-day season
+- Collect cards in the album and unlock achievements
+- Decorate Pip's house with furniture you collect
+- Plays offline, no account needed
+- In English, Deutsch, Francais, Espanol, Italiano, Portugues, Romana, Japanese and Korean
+
+FAIR BY DESIGN
+- Free to play. Purchases never change a level's solution; coins buy continues, lives and boosters.
+- Album crates can't be bought, and their odds are always shown.
+- Ads are optional videos, plus a short ad between some levels after a win. Remove Ads turns off the ads between levels.
+
+KEY FACTS
+- Title: Sortwick: Goods Sort Puzzle (display name Sortwick)
+- Developer: Adrian Constantin Baluta (independent, solo)
+- Platform: iPhone, iOS 17 or later (runs on iPad in iPhone compatibility mode)
+- Price: free, with optional in-app purchases and ads
+- Languages: English, German, French, Spanish, Italian, Portuguese (Brazil), Romanian, Japanese, Korean
+- Release: version 1.0, October 2026
+- App Store: https://apps.apple.com/app/id6825466170
+- Game Center: two leaderboards (Daily Challenge, weekly Sea Race) and 91 achievements
+- Website: https://sortwick.com
+- Lives: 3 (one back every 2 hours); ads start at level 10, at most 5 between-level ads a day, reward videos always optional
+- In-app purchases: coin packs (500 / 1,400 / 3,100 / 8,500 coins), Starter Pack (900 coins, 6 boosters, 1 hour unlimited lives), Harbor VIP (monthly: 60 coins a day, a weekly chest, a 4th life, no ads between levels), Harvest Pass Premium (28-day season), Remove Ads
+
+ASSETS IN THIS KIT
+- icon-1024.png: the app icon (1024x1024)
+- screenshots/01..08: the App Store screenshots, 1320x2868 (iPhone 6.9"), English captions
+- preview-28s-886x1920.mp4: the 28-second App Store preview, silent
+
+USAGE
+You may use these assets to cover Sortwick (reviews, articles, videos, social posts). Please do not alter the icon. The App Store badge must be used as Apple provides it (https://developer.apple.com/app-store/marketing/guidelines/).
