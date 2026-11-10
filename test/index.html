@@ -35,7 +35,7 @@
 <h1>Test Sortwick on Android</h1>
 <p>Thank you for helping! Google needs a group of people to play the game for 14 days before it can go on the Play Store. It takes 2 minutes. You need an Android phone or tablet.</p>
 
-<p class="status" id="status"><strong>Status:</strong> Open! Do step 1, wait one minute, then step 2. Google needs about a minute to add you; if you go too fast, Google Play says the app is not available.</p>
+<p class="status" id="status"><strong>Status:</strong> Open! Do step 1, wait one minute (the page counts it for you), then step 2. Google needs about a minute to add you; if you go too fast, Google Play says the app is not available.</p>
 
 <div class="steps">
 <section class="card step">
@@ -54,6 +54,7 @@
 </ul></div>
 <p>Tap the button on your Android phone or tablet. It opens the <b>Google Play app</b> on Sortwick's page: tap <b>Join</b> (in the "Join the test" box), <b>wait about a minute</b>, then tap <b>Install</b>.</p>
 <p><a class="button" id="install" href="https://play.google.com/store/apps/details?id=com.adrianbaluta.sortwick">Install Sortwick</a></p>
+<p class="small" id="locked">The button turns on one minute after you tap <b>Join the group</b> above. <a href="#" id="skip">I joined the group earlier</a></p>
 <p class="small">On a computer, or if the Play app doesn't open: use <a href="https://play.google.com/apps/testing/com.adrianbaluta.sortwick">the web link</a>, tap <b>Become a tester</b>, then install. The web link checks the Google account signed in to your <b>browser</b>; if it says "App not available", switch the browser to the Gmail you joined the group with (your picture at the top right).</p>
 <p class="small">If Google Play says <b>Item not found</b> or <b>not available</b>: nothing is wrong. Google is still adding you. Wait 2 or 3 minutes and tap the Install button again; you do not need to join again. Still not working after 10 minutes? Check that Google Play uses the same Gmail you joined with (tap your picture at the top right of the Play Store).</p>
 </section>
@@ -84,11 +85,15 @@
   var mem=0;
   function get(){try{return parseInt(localStorage.getItem(KEY)||'0',10)||mem}catch(e){return mem}}
   function tick(){
-    var t=get(); if(!t) return;
+    var t=get(); if(!t){install.classList.add('off');install.setAttribute('aria-disabled','true');return;}
+    document.getElementById('locked').hidden=true;
     var left=Math.ceil(WAIT-(Date.now()-t)/1000);
     if(left>0){wait.hidden=false;count.textContent=left+' s';install.classList.add('off');install.setAttribute('aria-disabled','true');setTimeout(tick,1000);}
     else{wait.hidden=true;install.classList.remove('off');install.removeAttribute('aria-disabled');}
   }
+  document.getElementById('skip').addEventListener('click',function(e){
+    e.preventDefault(); mem=Date.now()-WAIT*1000; try{localStorage.setItem(KEY,String(mem))}catch(err){} tick();
+  });
   document.getElementById('join').addEventListener('click',function(){
     if(!get()||Date.now()-get()>3600e3){mem=Date.now();try{localStorage.setItem(KEY,String(mem))}catch(e){}}
     setTimeout(tick,50);
