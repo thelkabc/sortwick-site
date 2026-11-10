@@ -24,6 +24,7 @@
 .wait{margin:.8rem 0;padding:.8rem 1rem;border-radius:12px;background:var(--sandDeep);font-weight:600}
 .wait .count{font-size:1.6rem;font-weight:800;color:var(--teal);display:block}
 .button.off{opacity:.45;pointer-events:none}
+.ready{margin:.8rem 0;padding:.8rem 1rem;border-radius:12px;background:var(--sandDeep);font-weight:800;color:var(--teal)}
 .read{margin:.6rem 0 0;padding-left:1.2rem}
 </style>
 </head>
@@ -33,7 +34,7 @@
 <nav aria-label="Main"><a href="../#features">Features</a><a href="../#faq">FAQ</a><a href="../press/">Press</a><a href="../support/">Support</a></nav></div></header>
 <div class="wrap narrow"><main class="doc" id="main">
 <h1>Test Sortwick on Android</h1>
-<p>Thank you for helping! Google needs a group of people to play the game for 14 days before it can go on the Play Store. It takes 2 minutes. You need an Android phone or tablet.</p>
+<p>Thank you for helping! Google needs a group of people to play the game for 14 days before it can go on the Play Store. It takes 2 minutes. You need an Android phone or tablet. <a href="#ro" lang="ro">Română ↓</a></p>
 
 <p class="status" id="status"><strong>Status:</strong> Open! Do step 1, wait one minute (the page counts it for you), then step 2. Google needs about a minute to add you; if you go too fast, Google Play says the app is not available.</p>
 
@@ -43,10 +44,12 @@
 <p>Open this on your Android phone, signed in with the Gmail you use for Google Play. Tap <b>Join group</b>.</p>
 <p><a class="button" id="join" href="https://groups.google.com/g/sortwick-testers" target="_blank" rel="noopener">Join the group</a></p>
 <p class="small">The group opens in a new tab. After you tap <b>Join group</b> there, come back to this page.</p>
+<p class="small">Opened this page from Instagram, Facebook or TikTok? Tap <b>⋮</b> and choose <b>Open in Chrome</b> first, so Google knows who you are.</p>
 </section>
 <section class="card step">
 <h2><span class="num">2</span>Install the game</h2>
-<div class="wait" id="wait" hidden aria-live="polite"><span class="count" id="count">60</span>Google is adding you to the test. While you wait:
+<p class="ready" id="ready" hidden aria-live="polite">You can install now ✓ <span lang="ro">Poți instala acum ✓</span></p>
+<div class="wait" id="wait" hidden><span class="count" id="count" aria-hidden="true">60</span>Google is adding you to the test. While you wait:
 <ul class="read">
 <li>Sortwick is a cozy sorting puzzle: match 3 goods on a shelf to clear it, then use the stars to restore a seaside town.</li>
 <li>As a tester you just play normally. Bugs or ideas: <a href="mailto:support@sortwick.com">support@sortwick.com</a>.</li>
@@ -64,14 +67,14 @@
 </section>
 </div>
 
-<section class="lang" lang="ro">
+<section class="lang" lang="ro" id="ro">
 <h2>Română</h2>
 <p>Mulțumesc că ajuți! Google cere ca un grup de oameni să joace 14 zile înainte ca jocul să apară în Magazin Play. Durează 2 minute și ai nevoie de un telefon sau o tabletă cu Android.</p>
-<p class="status"><strong>Stare:</strong> Deschis! Fă pasul 1, așteaptă un minut, apoi pasul 2. Google are nevoie de aproximativ un minut ca să te adauge; dacă te grăbești, Google Play spune că aplicația nu e disponibilă.</p>
+<p class="status"><strong>Stare:</strong> Deschis! Fă pasul 1, așteaptă un minut (pagina numără pentru tine), apoi pasul 2. Google are nevoie de aproximativ un minut ca să te adauge; dacă te grăbești, Google Play spune că aplicația nu e disponibilă.</p>
 <ol>
-<li><b>Intră în grup:</b> deschide pe telefon, conectat cu Gmailul folosit în Google Play, și apasă <b>Join group</b>: <a href="https://groups.google.com/g/sortwick-testers">grupul de testeri</a>.</li>
-<li><b>Așteaptă un minut</b> după ce ai intrat în grup.</li>
-<li><b>Instalează jocul:</b> pe telefon sau tabletă deschide <a href="https://play.google.com/store/apps/details?id=com.adrianbaluta.sortwick">Sortwick în aplicația Google Play</a>, apasă <b>Join</b> (în caseta „Join the test”), <b>așteaptă încă un minut</b>, apoi <b>Install</b>. Pe calculator folosește <a href="https://play.google.com/apps/testing/com.adrianbaluta.sortwick">linkul web</a> și <b>Become a tester</b>; dacă spune „App not available”, schimbă contul din browser pe Gmailul cu care ai intrat în grup.</li>
+<li><b>Intră în grup:</b> deschide pe telefon, conectat cu Gmailul folosit în Google Play, și apasă <b>Join group</b>: <a href="https://groups.google.com/g/sortwick-testers" target="_blank" rel="noopener">grupul de testeri</a>. Butoanele Google pot apărea în română (de ex. „Alătură-te grupului”). Ai deschis pagina din Instagram, Facebook sau TikTok? Apasă <b>⋮</b> → <b>Deschide în Chrome</b> mai întâi.</li>
+<li><b>Așteaptă un minut:</b> butonul verde <b>Install Sortwick</b> de mai sus se activează singur după un minut. Ai intrat în grup mai demult? Apasă „I joined the group earlier” sub buton.</li>
+<li><b>Instalează jocul:</b> apasă butonul <a href="#install">Install Sortwick</a> de mai sus; se deschide aplicația Google Play. Apasă <b>Join</b> (în caseta „Join the test”), <b>așteaptă încă un minut</b>, apoi <b>Install</b>. Pe calculator folosește <a href="https://play.google.com/apps/testing/com.adrianbaluta.sortwick">linkul web</a> și <b>Become a tester</b>; dacă spune „App not available”, schimbă contul din browser pe Gmailul cu care ai intrat în grup.</li>
 <li>Dacă Google Play spune <b>Item not found</b> sau <b>not available</b>: e normal, Google încă te adaugă. Așteaptă 2–3 minute și apasă din nou pe Instalează; nu trebuie să intri din nou în grup.</li>
 <li><b>Păstrează-l 14 zile</b> și joacă din când în când. Idei sau probleme: <a href="mailto:support@sortwick.com">support@sortwick.com</a>.</li>
 </ol>
@@ -84,20 +87,22 @@
   var wait=document.getElementById('wait'), count=document.getElementById('count'), install=document.getElementById('install');
   var mem=0;
   function get(){try{return parseInt(localStorage.getItem(KEY)||'0',10)||mem}catch(e){return mem}}
+  var ready=document.getElementById('ready'), timer=0, started=false;
   function tick(){
+    clearTimeout(timer);
     var t=get(); if(!t){install.classList.add('off');install.setAttribute('aria-disabled','true');return;}
     document.getElementById('locked').hidden=true;
     var left=Math.ceil(WAIT-(Date.now()-t)/1000);
-    if(left>0){wait.hidden=false;count.textContent=left+' s';install.classList.add('off');install.setAttribute('aria-disabled','true');setTimeout(tick,1000);}
-    else{wait.hidden=true;install.classList.remove('off');install.removeAttribute('aria-disabled');}
+    if(left>0){started=true;wait.hidden=false;ready.hidden=true;count.textContent=left+' s';install.classList.add('off');install.setAttribute('aria-disabled','true');timer=setTimeout(tick,1000);}
+    else{wait.hidden=true;ready.hidden=!started;install.classList.remove('off');install.removeAttribute('aria-disabled');}
   }
   document.getElementById('skip').addEventListener('click',function(e){
     e.preventDefault(); mem=Date.now()-WAIT*1000; try{localStorage.setItem(KEY,String(mem))}catch(err){} tick();
   });
-  document.getElementById('join').addEventListener('click',function(){
+  Array.prototype.forEach.call(document.querySelectorAll('a[href*="groups.google.com"]'),function(a){a.addEventListener('click',function(){
     if(!get()||Date.now()-get()>3600e3){mem=Date.now();try{localStorage.setItem(KEY,String(mem))}catch(e){}}
     setTimeout(tick,50);
-  });
+  });});
   tick();
 })();
 </script>
