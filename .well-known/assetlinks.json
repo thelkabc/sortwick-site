@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.adrianbaluta.sortwick",
+      "sha256_cert_fingerprints":
+        ["C6:51:61:87:F0:36:08:C2:F8:23:50:15:46:51:49:74:08:71:A3:0A:B3:22:81:76:2B:8D:8A:16:79:FD:78:78"]
+    }
+  }
+]

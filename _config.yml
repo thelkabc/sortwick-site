@@ -1,0 +1,2 @@
+# GitHub Pages (Jekyll): publish .well-known/ (Android App Links); everything else is plain static HTML.
+include: [".well-known"]
