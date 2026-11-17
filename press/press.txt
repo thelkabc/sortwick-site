@@ -23,7 +23,7 @@ NEW TRICKS, ONE AT A TIME
 - Tricks pair up, variants arrive, and double shifts send a second wave of goods onto the board
 
 A REAL CHALLENGE
-- Difficulty rises for real: HARD levels, SUPER HARD levels, storm levels, mystery levels and calm breathers
+- Difficulty rises for real: HARD levels, SUPER HARD levels, Storm levels, mystery levels and calm breathers
 - Boards come as towers, staircases, split columns, open shelves and more
 - Undo, Shuffle and Magnet boosters when you want them, never forced on you
 
@@ -37,20 +37,20 @@ MORE TO DO
 FAIR BY DESIGN
 - Free to play. Purchases never change a level's solution; coins buy continues, lives and boosters.
 - Album crates can't be bought, and their odds are always shown.
-- Ads are optional videos, plus a short ad between some levels after a win. Remove Ads turns off the ads between levels.
+- Ads are optional videos. An ad between levels is rare by design (none in the first 100 levels, never after a loss), and Remove Ads turns those off.
 
 KEY FACTS
 - Title: Sortwick: Goods Sort Puzzle (display name Sortwick)
 - Developer: Adrian Constantin Baluta (independent, solo)
-- Platform: iPhone, iOS 17 or later (runs on iPad in iPhone compatibility mode)
+- Platform: iPhone, iOS 17 or later (also runs on iPad)
 - Price: free, with optional in-app purchases and ads
 - Languages: English, German, French, Spanish, Italian, Portuguese (Brazil), Romanian, Japanese, Korean
 - Release: version 1.0, October 2026
 - App Store: https://apps.apple.com/app/id6825466170
 - Game Center: two leaderboards (Daily Challenge, weekly Sea Race) and 91 achievements
 - Website: https://sortwick.com
-- Lives: 3 (one back every 2 hours); ads start at level 10, at most 5 between-level ads a day, reward videos always optional
-- In-app purchases: coin packs (500 / 1,400 / 3,100 / 8,500 coins), Starter Pack (900 coins, 6 boosters, 1 hour unlimited lives), Harbor VIP (monthly: 60 coins a day, a weekly chest, a 4th life, no ads between levels), Harvest Pass Premium (28-day season), Remove Ads
+- Lives and ads: lives refill over time, and a free video gives one back; no ads in the first levels, reward videos always optional, ads between levels rare by design (none in the first 100 levels, never after a loss, none for players with Remove Ads, Harbor VIP or a recent purchase)
+- In-app purchases: coin packs (500 / 1,400 / 3,100 / 8,500 coins), Starter Pack (900 coins, 6 boosters, 1 hour unlimited lives), Harbor VIP (monthly: 60 coins a day, a weekly chest, an extra life, no ads between levels), Harvest Pass Premium (28-day season), Remove Ads
 
 ASSETS IN THIS KIT
 - icon-1024.png: the app icon (1024x1024)

@@ -7,7 +7,7 @@ img,video{max-width:100%;height:auto;display:block}
 a{color:var(--link);text-underline-offset:2px}
 a:hover{color:var(--teal)}
 a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid var(--sea);outline-offset:2px;border-radius:4px}
-.wrap{max-width:60rem;margin:0 auto;padding:0 1rem}
+.wrap{max-width:60rem;margin:0 auto;padding:0 max(1rem,env(safe-area-inset-right)) 0 max(1rem,env(safe-area-inset-left))}
 .narrow{max-width:44rem}
 header.site{padding:.9rem 0}
 header.site .wrap{display:flex;justify-content:space-between;align-items:center;gap:.5rem 1rem;flex-wrap:wrap}
@@ -89,6 +89,7 @@ main.doc h2{font-size:1.2rem;margin:1.6rem 0 .3rem;color:var(--teal)}
 main.doc p{margin:.4rem 0 .8rem;overflow-wrap:anywhere}
 main.doc table{border-collapse:collapse;width:100%;font-size:.95rem}
 main.doc td,main.doc th{text-align:left;padding:.4rem .5rem;border-bottom:1px solid var(--line);vertical-align:top}
+main.doc td{overflow-wrap:anywhere}
 .press-shots{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:.8rem;list-style:none;padding:0;margin:1rem 0}
 .press-shots img{border-radius:12px;box-shadow:0 3px 10px var(--shadow)}
 .button{display:inline-block;background:var(--teal);color:#fff;font-weight:700;padding:.7rem 1.3rem;border-radius:14px;text-decoration:none}
@@ -106,5 +107,17 @@ footer .social a:hover,footer .social a:focus-visible{color:var(--ink)}
 .langs{display:flex;flex-wrap:wrap;justify-content:center;gap:.2rem .3rem;margin:.6rem 0 0;padding:0;list-style:none}
 .langs a{margin:0;padding:.2rem .4rem}
 .langs [aria-current]{font-weight:700;color:var(--ink);text-decoration:none}
+/* Download bar: phones only (under 700 px), fixed to the bottom edge; landing pages, support and press.
+   The body keeps the bar's height free so the footer's last line is never covered. */
+.getbar{display:none}
+@media(max-width:43.74rem){body.has-getbar{padding-bottom:calc(57px + env(safe-area-inset-bottom))}
+.getbar{position:fixed;left:0;right:0;bottom:0;z-index:20;display:flex;align-items:center;gap:.6rem;padding:.5rem max(1rem,env(safe-area-inset-right)) calc(.5rem + env(safe-area-inset-bottom)) max(1rem,env(safe-area-inset-left));background:var(--cream);border-top:1px solid var(--line);box-shadow:0 -4px 14px var(--shadow);color:var(--ink);text-decoration:none}
+.getbar:hover{color:var(--ink)}
+.getbar .gb-icon{width:40px;height:40px;border-radius:10px;flex:none}
+.getbar .gb-text{flex:1;min-width:0;display:flex;flex-direction:column;line-height:1.25}
+.getbar .gb-text strong{font-size:1rem}
+.getbar .gb-text span{font-size:.85rem;color:var(--inkSoft)}
+.getbar .gb-text strong,.getbar .gb-text span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.getbar .gb-badge{width:120px;height:40px;flex:none}}
 @media(min-width:40rem){h1{font-size:3rem}main.doc{padding:2rem}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
