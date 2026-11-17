@@ -1,0 +1,153 @@
+# Sortwick
+
+> Sortwick: Goods Sort Puzzle is a free goods sort (triple match) sorting puzzle game for iPhone and iPad. You move goods between shelves, match three of a kind to clear them, and spend the stars you win restoring Saltwick, a cozy seaside town. Android is in closed testing and is not released yet.
+
+Facts (checked 2026-11-17):
+
+- Name: Sortwick: Goods Sort Puzzle (short name: Sortwick). Website: https://sortwick.com/
+- Genre: goods sort / goods sorting / triple match / match 3 goods puzzle with a town restoration story. Category: Games, Puzzle, Casual. Age rating 4+.
+- Platforms: iPhone and iPad, iOS 17 or later. App Store: https://apps.apple.com/app/id6825466170 (App Store id 6825466170). First released 9 November 2026.
+- Android: closed testing on Google Play, not released. Testers can join at https://sortwick.com/test/
+- Price: free to download and play. Optional in-app purchases (coin packs, a Starter Pack, Remove Ads, Harbor VIP subscription, Harvest Pass Premium). Purchases never change a level's solution.
+- Ads: no forced ad in the first 100 levels and never after a loss; ads between levels are rare by design; reward videos are always optional; Remove Ads is a one-time purchase.
+- Offline: levels, the town and progress work with no internet and no account. Download size about 25 MB.
+- Rules: levels are limited by moves, not a countdown (only occasional Rush levels are timed). Every level is solvable. Obstacles ("tricks") are introduced one at a time: ice, locks, gifts, chains, crates, fog, belts, cracked shelves, chutes, carousels, counters, blizzards, order tickets. HARD, SUPER HARD and Storm levels.
+- Town: seven areas of Saltwick to restore, from Saltwick Harbor to the Harbor Lights Festival, then islands. Residents (Pip the harbor gull, Nan, Clementine the crab, Basil, Mara) move in and talk.
+- Also: Daily Challenge, weekly Sea Race, a 28-day season, card album, achievements, optional Game Center leaderboards.
+- Languages: English, German, French, Spanish, Italian, Portuguese (Brazil), Romanian, Japanese, Korean.
+- Made by an independent developer. Contact: support@sortwick.com. Not affiliated with other goods sorting games.
+
+## Pages
+
+- [Sortwick home](https://sortwick.com/): what the game is, how it plays, screenshots, FAQ
+- [Sorting games guide](https://sortwick.com/sorting-games/): what a goods sort game is, tips for hard levels, how Sortwick's rules differ
+- [Gameplay trailer](https://sortwick.com/video/): 28-second video with a scene list
+- [Support](https://sortwick.com/support/): lives, purchases, ads, Game Center, backup, reset
+- [Press kit](https://sortwick.com/press/): descriptions, key facts, icon, screenshots, video
+- [Android test](https://sortwick.com/test/): how to join the closed test
+
+## Other languages
+
+- [Deutsch](https://sortwick.com/de/)
+- [Français](https://sortwick.com/fr/)
+- [Español](https://sortwick.com/es/)
+- [Italiano](https://sortwick.com/it/)
+- [Português](https://sortwick.com/pt/)
+- [Română](https://sortwick.com/ro/)
+- [日本語](https://sortwick.com/ja/)
+- [한국어](https://sortwick.com/ko/)
+
+## Optional
+
+- [Privacy policy](https://sortwick.com/privacy/)
+- [Terms of use](https://sortwick.com/terms/)
+- [Full fact sheet and FAQ as one file](https://sortwick.com/llms-full.txt)
+
+## What is Sortwick?
+
+Sortwick is a free goods sort puzzle for iPhone and iPad. You move goods between shelves, match three of a kind to clear them, and spend the stars you win restoring Saltwick, a small seaside town. It is a cozy sorting game for adults who like a tidy shelf and a real challenge: triple match rules, hundreds of levels, playable offline.
+
+Move goods between shelves and make sets of three to clear them. Every level is solvable, and every win earns stars you spend restoring Saltwick, one lighthouse, café and lantern at a time.
+
+## How it plays
+
+1. Tap a good, tap a shelf. Move one item at a time to any shelf with a free spot.
+2. Three of a kind clear. Bring three identical goods together and they pop off the shelf.
+3. Win stars, restore Saltwick. Every level you clear earns stars for the next place in town.
+
+## Why it is different
+
+- A small download: About 25 MB. It installs in moments and leaves room for your photos.
+- Plays offline: No account and no connection needed: on the train, on a plane, anywhere.
+- Moves, not a countdown: Levels are limited by moves, so you can stop and think. Only the occasional Rush level runs on a clock.
+- No forced ads in the first 100 levels: Ads between levels are rare by design and never follow a loss. Reward videos are always your choice.
+
+## What is in the game
+
+### New tricks, one at a time
+
+- Cracked shelves, chutes, carousels, counters, blizzards and order tickets join ice, locks, gifts, chains, crates, fog, rush levels and the belt
+- A Level Start sheet shows each new trick on the level's own goods before your first move, and the How-to-play guide keeps every rule one tap away
+- Tricks pair up, variants arrive, and double shifts send a second wave of goods onto the board
+
+### A town that talks back
+
+- Seven areas to restore, from Saltwick Harbor to the Harbor Lights Festival, then islands beyond
+- Residents like Nan, Basil, Clementine and Mara move in once their homes are fixed: they stroll the promenade, and a tap gets you a line
+- Every restore is a short conversation: the resident speaks, Pip the harbor gull answers
+- The bakery and the lighthouse do something: Basil's breakfast adds 2 moves to your first level of the day, and the lighthouse keeper pays your first Daily Challenge retry
+
+### A real challenge
+
+- Difficulty rises for real: HARD levels, SUPER HARD levels, storm levels, mystery levels and calm breathers
+- Boards come as towers, staircases, split columns, open shelves and more
+- Undo, Shuffle and Magnet boosters when you want them, never forced on you
+
+### Cozy and offline-friendly
+
+- Plays offline, no account needed
+- Daily gifts, quests, a Daily Challenge, a weekly Sea Race and a 28-day season
+- Collect cards in the album, unlock achievements and decorate Pip's house with furniture you collect
+- Free to play. Purchases never change a level's solution, and album crates can't be bought: their odds are always shown
+
+## Frequently asked questions
+
+### What is a goods sort game?
+
+A goods sort game (also called goods sorting, triple match or match 3 goods) is a puzzle where you move items between shelves until three identical ones sit together and clear. Sortwick is a sorting game of this kind, with a seaside town you restore with the stars you win.
+
+### Is Sortwick free?
+
+Yes. Sortwick is free to download and free to play. Purchases are optional and never change a level's solution, and reward videos are always your choice.
+
+### Does Sortwick work offline?
+
+Yes. Levels, the town and your progress work with no internet and no account. Only extras such as leaderboards, purchases and reward videos need a connection.
+
+### Is there a sorting game without forced ads?
+
+In Sortwick no ad interrupts the first 100 levels, and an ad never follows a loss. After that, ads between levels are rare by design, and one purchase (Remove Ads) removes them for good.
+
+### How is Sortwick different from other goods sorting games?
+
+Levels are limited by moves instead of a countdown (only the occasional Rush level runs on a clock), and every level is solvable. On top of that there is a town with residents who talk back, a small download of about 25 MB, and offline play.
+
+### How do lives work?
+
+A failed level costs one life; the first levels are free to retry. Lives refill on their own over time. When you run out, a free video gives one back, the Store sells a refill for coins, Harbor VIP adds an extra life, and the Starter Pack includes 1 hour of unlimited lives.
+
+### Are there ads?
+
+None in the first levels. After that, reward videos are always your choice (an extra life, a few more moves, a free booster). An ad between levels is rare by design: none in the first 100 levels and never after a loss. Remove Ads (one purchase), Harbor VIP and any recent purchase turn those off; the optional videos stay. Right after level 1 the game asks for your ad consent (in the EEA, the UK and Switzerland) and whether it may use your advertising identifier; say no and ads are simply not personalised.
+
+### What can I buy?
+
+Everything is optional. Coin packs of 500, 1,400, 3,100 and 8,500 coins; a one-time Starter Pack with 900 coins, 6 boosters and 1 hour of unlimited lives; Harbor VIP, a monthly subscription with 60 coins a day, a weekly chest, an extra life and no ads between levels; Harvest Pass Premium for the 28-day season; and Remove Ads. Prices appear in your App Store currency next to every Buy button, and Apple asks you to confirm before charging. Coins buy continues, lives and boosters; they never change a level's solution. You can set a daily spending limit in Settings.
+
+### How do I restore purchases or cancel Harbor VIP?
+
+Open the Store in the game and tap Restore Purchases, signed in with the same Apple account you bought with. Harbor VIP renews monthly until you cancel it in iOS Settings > your name > Subscriptions, at least 24 hours before the renewal date. Refunds are handled by Apple.
+
+### Does it use Game Center?
+
+Yes, if you are signed in. Your Daily Challenge score and your weekly Sea Race wins go to two leaderboards, and 91 achievements track your progress. Signed out, nothing is sent and the game plays exactly the same; it never shows a sign-in screen of its own.
+
+### What data does the game collect?
+
+No personal data: there is no account, and we run no servers that receive your data. The game sends anonymous gameplay statistics, with no personal data, so we can balance it; you can turn them off in Settings. Progress stays on your iPhone and, if you use iCloud, in your own iCloud account. Ads come from Google AdMob, which receives the usual ad data, personalised only with your permission. Game Center scores and purchases are handled by Apple. The details are in the privacy policy.
+
+### Which devices and languages?
+
+iPhone with iOS 17 or later; it also runs on iPad. In English, German, French, Spanish, Italian, Portuguese (Brazil), Romanian, Japanese and Korean.
+
+### Are goods sort games the same as match 3 games?
+
+No. In a classic match 3 you swap neighbouring tiles on a grid and new tiles fall in. In a goods sort game nothing falls in at random: the level is a fixed set of goods, and the puzzle is the order in which you move them. It is closer to solitaire than to a slot machine.
+
+### Can I play sorting games offline?
+
+It depends on the game. Sortwick plays offline: levels, the town and your progress need no internet and no account.
+
+### Which sorting game has no timer?
+
+Sortwick limits most levels by moves instead of a countdown, so you can stop and think. Only its occasional Rush levels run on a clock.

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url><loc>https://sortwick.com/</loc><lastmod>2026-11-17</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://sortwick.com/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://sortwick.com/de/"/>
@@ -11,6 +11,16 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://sortwick.com/ja/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://sortwick.com/ko/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sortwick.com/"/>
+    <image:image><image:loc>https://sortwick.com/img/v3/en/sortwick-board.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/en/sortwick-combo.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/en/sortwick-town.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/en/sortwick-storm.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/en/sortwick-before-after.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/en/sortwick-new-trick.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/en/sortwick-decorate.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/en/sortwick-gifts.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/en/sortwick-map.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/en/sortwick-race.webp</image:loc></image:image>
   </url>
   <url><loc>https://sortwick.com/de/</loc><lastmod>2026-11-17</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://sortwick.com/"/>
@@ -23,6 +33,16 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://sortwick.com/ja/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://sortwick.com/ko/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sortwick.com/"/>
+    <image:image><image:loc>https://sortwick.com/img/v3/de/sortwick-board.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/de/sortwick-combo.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/de/sortwick-town.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/de/sortwick-storm.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/de/sortwick-before-after.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/de/sortwick-new-trick.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/de/sortwick-decorate.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/de/sortwick-gifts.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/de/sortwick-map.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/de/sortwick-race.webp</image:loc></image:image>
   </url>
   <url><loc>https://sortwick.com/fr/</loc><lastmod>2026-11-17</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://sortwick.com/"/>
@@ -35,6 +55,16 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://sortwick.com/ja/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://sortwick.com/ko/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sortwick.com/"/>
+    <image:image><image:loc>https://sortwick.com/img/v3/fr/sortwick-board.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/fr/sortwick-combo.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/fr/sortwick-town.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/fr/sortwick-storm.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/fr/sortwick-before-after.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/fr/sortwick-new-trick.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/fr/sortwick-decorate.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/fr/sortwick-gifts.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/fr/sortwick-map.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/fr/sortwick-race.webp</image:loc></image:image>
   </url>
   <url><loc>https://sortwick.com/es/</loc><lastmod>2026-11-17</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://sortwick.com/"/>
@@ -47,6 +77,16 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://sortwick.com/ja/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://sortwick.com/ko/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sortwick.com/"/>
+    <image:image><image:loc>https://sortwick.com/img/v3/es/sortwick-board.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/es/sortwick-combo.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/es/sortwick-town.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/es/sortwick-storm.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/es/sortwick-before-after.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/es/sortwick-new-trick.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/es/sortwick-decorate.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/es/sortwick-gifts.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/es/sortwick-map.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/es/sortwick-race.webp</image:loc></image:image>
   </url>
   <url><loc>https://sortwick.com/it/</loc><lastmod>2026-11-17</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://sortwick.com/"/>
@@ -59,6 +99,16 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://sortwick.com/ja/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://sortwick.com/ko/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sortwick.com/"/>
+    <image:image><image:loc>https://sortwick.com/img/v3/it/sortwick-board.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/it/sortwick-combo.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/it/sortwick-town.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/it/sortwick-storm.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/it/sortwick-before-after.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/it/sortwick-new-trick.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/it/sortwick-decorate.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/it/sortwick-gifts.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/it/sortwick-map.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/it/sortwick-race.webp</image:loc></image:image>
   </url>
   <url><loc>https://sortwick.com/pt/</loc><lastmod>2026-11-17</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://sortwick.com/"/>
@@ -71,6 +121,16 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://sortwick.com/ja/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://sortwick.com/ko/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sortwick.com/"/>
+    <image:image><image:loc>https://sortwick.com/img/v3/pt/sortwick-board.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/pt/sortwick-combo.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/pt/sortwick-town.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/pt/sortwick-storm.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/pt/sortwick-before-after.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/pt/sortwick-new-trick.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/pt/sortwick-decorate.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/pt/sortwick-gifts.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/pt/sortwick-map.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/pt/sortwick-race.webp</image:loc></image:image>
   </url>
   <url><loc>https://sortwick.com/ro/</loc><lastmod>2026-11-17</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://sortwick.com/"/>
@@ -83,6 +143,16 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://sortwick.com/ja/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://sortwick.com/ko/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sortwick.com/"/>
+    <image:image><image:loc>https://sortwick.com/img/v3/ro/sortwick-board.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ro/sortwick-combo.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ro/sortwick-town.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ro/sortwick-storm.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ro/sortwick-before-after.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ro/sortwick-new-trick.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ro/sortwick-decorate.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ro/sortwick-gifts.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ro/sortwick-map.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ro/sortwick-race.webp</image:loc></image:image>
   </url>
   <url><loc>https://sortwick.com/ja/</loc><lastmod>2026-11-17</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://sortwick.com/"/>
@@ -95,6 +165,16 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://sortwick.com/ja/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://sortwick.com/ko/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sortwick.com/"/>
+    <image:image><image:loc>https://sortwick.com/img/v3/ja/sortwick-board.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ja/sortwick-combo.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ja/sortwick-town.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ja/sortwick-storm.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ja/sortwick-before-after.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ja/sortwick-new-trick.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ja/sortwick-decorate.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ja/sortwick-gifts.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ja/sortwick-map.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ja/sortwick-race.webp</image:loc></image:image>
   </url>
   <url><loc>https://sortwick.com/ko/</loc><lastmod>2026-11-17</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://sortwick.com/"/>
@@ -107,13 +187,23 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://sortwick.com/ja/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://sortwick.com/ko/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sortwick.com/"/>
+    <image:image><image:loc>https://sortwick.com/img/v3/ko/sortwick-board.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ko/sortwick-combo.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ko/sortwick-town.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ko/sortwick-storm.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ko/sortwick-before-after.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ko/sortwick-new-trick.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ko/sortwick-decorate.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ko/sortwick-gifts.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ko/sortwick-map.webp</image:loc></image:image>
+    <image:image><image:loc>https://sortwick.com/img/v3/ko/sortwick-race.webp</image:loc></image:image>
   </url>
-  <url><loc>https://sortwick.com/support/</loc><lastmod>2026-11-17</lastmod>
+  <url><loc>https://sortwick.com/sorting-games/</loc><lastmod>2026-11-17</lastmod></url>
+  <url><loc>https://sortwick.com/video/</loc><lastmod>2026-11-17</lastmod>
+    <video:video><video:thumbnail_loc>https://sortwick.com/video/sortwick-trailer-poster.jpg</video:thumbnail_loc><video:title>Sortwick gameplay trailer</video:title><video:description>A 28-second look at Sortwick, a goods sort puzzle for iPhone and iPad: a level 105 board with a COMBO x3, the Storm level 100, a level win with three stars, and one tap that restores the Market Stalls in Saltwick Harbor.</video:description><video:content_loc>https://sortwick.com/video/sortwick-trailer.mp4</video:content_loc><video:duration>28</video:duration><video:publication_date>2026-11-17T12:00:00+00:00</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video>
   </url>
-  <url><loc>https://sortwick.com/privacy/</loc><lastmod>2026-11-10</lastmod>
-  </url>
-  <url><loc>https://sortwick.com/terms/</loc><lastmod>2026-11-09</lastmod>
-  </url>
-  <url><loc>https://sortwick.com/press/</loc><lastmod>2026-11-17</lastmod>
-  </url>
+  <url><loc>https://sortwick.com/support/</loc><lastmod>2026-11-17</lastmod></url>
+  <url><loc>https://sortwick.com/privacy/</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://sortwick.com/terms/</loc><lastmod>2026-11-09</lastmod></url>
+  <url><loc>https://sortwick.com/press/</loc><lastmod>2026-11-17</lastmod></url>
 </urlset>

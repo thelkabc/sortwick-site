@@ -1,0 +1,44 @@
+# Sortwick
+
+> Sortwick: Goods Sort Puzzle is a free goods sort (triple match) sorting puzzle game for iPhone and iPad. You move goods between shelves, match three of a kind to clear them, and spend the stars you win restoring Saltwick, a cozy seaside town. Android is in closed testing and is not released yet.
+
+Facts (checked 2026-11-17):
+
+- Name: Sortwick: Goods Sort Puzzle (short name: Sortwick). Website: https://sortwick.com/
+- Genre: goods sort / goods sorting / triple match / match 3 goods puzzle with a town restoration story. Category: Games, Puzzle, Casual. Age rating 4+.
+- Platforms: iPhone and iPad, iOS 17 or later. App Store: https://apps.apple.com/app/id6825466170 (App Store id 6825466170). First released 9 November 2026.
+- Android: closed testing on Google Play, not released. Testers can join at https://sortwick.com/test/
+- Price: free to download and play. Optional in-app purchases (coin packs, a Starter Pack, Remove Ads, Harbor VIP subscription, Harvest Pass Premium). Purchases never change a level's solution.
+- Ads: no forced ad in the first 100 levels and never after a loss; ads between levels are rare by design; reward videos are always optional; Remove Ads is a one-time purchase.
+- Offline: levels, the town and progress work with no internet and no account. Download size about 25 MB.
+- Rules: levels are limited by moves, not a countdown (only occasional Rush levels are timed). Every level is solvable. Obstacles ("tricks") are introduced one at a time: ice, locks, gifts, chains, crates, fog, belts, cracked shelves, chutes, carousels, counters, blizzards, order tickets. HARD, SUPER HARD and Storm levels.
+- Town: seven areas of Saltwick to restore, from Saltwick Harbor to the Harbor Lights Festival, then islands. Residents (Pip the harbor gull, Nan, Clementine the crab, Basil, Mara) move in and talk.
+- Also: Daily Challenge, weekly Sea Race, a 28-day season, card album, achievements, optional Game Center leaderboards.
+- Languages: English, German, French, Spanish, Italian, Portuguese (Brazil), Romanian, Japanese, Korean.
+- Made by an independent developer. Contact: support@sortwick.com. Not affiliated with other goods sorting games.
+
+## Pages
+
+- [Sortwick home](https://sortwick.com/): what the game is, how it plays, screenshots, FAQ
+- [Sorting games guide](https://sortwick.com/sorting-games/): what a goods sort game is, tips for hard levels, how Sortwick's rules differ
+- [Gameplay trailer](https://sortwick.com/video/): 28-second video with a scene list
+- [Support](https://sortwick.com/support/): lives, purchases, ads, Game Center, backup, reset
+- [Press kit](https://sortwick.com/press/): descriptions, key facts, icon, screenshots, video
+- [Android test](https://sortwick.com/test/): how to join the closed test
+
+## Other languages
+
+- [Deutsch](https://sortwick.com/de/)
+- [Français](https://sortwick.com/fr/)
+- [Español](https://sortwick.com/es/)
+- [Italiano](https://sortwick.com/it/)
+- [Português](https://sortwick.com/pt/)
+- [Română](https://sortwick.com/ro/)
+- [日本語](https://sortwick.com/ja/)
+- [한국어](https://sortwick.com/ko/)
+
+## Optional
+
+- [Privacy policy](https://sortwick.com/privacy/)
+- [Terms of use](https://sortwick.com/terms/)
+- [Full fact sheet and FAQ as one file](https://sortwick.com/llms-full.txt)
