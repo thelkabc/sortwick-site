@@ -2,7 +2,7 @@
 
 > Sortwick: Goods Sort Puzzle is a free goods sort (triple match) sorting puzzle game for iPhone and iPad. You move goods between shelves, match three of a kind to clear them, and spend the stars you win restoring Saltwick, a cozy seaside town. Android is in closed testing and is not released yet.
 
-Facts (checked 2026-11-17):
+Facts (checked 2026-11-18):
 
 - Name: Sortwick: Goods Sort Puzzle (short name: Sortwick). Website: https://sortwick.com/
 - Genre: goods sort / goods sorting / triple match / match 3 goods puzzle with a town restoration story. Category: Games, Puzzle, Casual. Age rating 4+.
@@ -10,7 +10,7 @@ Facts (checked 2026-11-17):
 - Android: closed testing on Google Play, not released. Testers can join at https://sortwick.com/test/
 - Price: free to download and play. Optional in-app purchases (coin packs, a Starter Pack, Remove Ads, Harbor VIP subscription, Harvest Pass Premium). Purchases never change a level's solution.
 - Ads: no forced ad in the first 100 levels and never after a loss; ads between levels are rare by design; reward videos are always optional; Remove Ads is a one-time purchase.
-- Offline: levels, the town and progress work with no internet and no account. Download size about 25 MB.
+- Offline: levels, the town and progress work with no internet and no account. Download size about 27 MB.
 - Rules: levels are limited by moves, not a countdown (only occasional Rush levels are timed). Every level is solvable. Obstacles ("tricks") are introduced one at a time: ice, locks, gifts, chains, crates, fog, belts, cracked shelves, chutes, carousels, counters, blizzards, order tickets. HARD, SUPER HARD and Storm levels.
 - Town: seven areas of Saltwick to restore, from Saltwick Harbor to the Harbor Lights Festival, then islands. Residents (Pip the harbor gull, Nan, Clementine the crab, Basil, Mara) move in and talk.
 - Also: Daily Challenge, weekly Sea Race, a 28-day season, card album, achievements, optional Game Center leaderboards.

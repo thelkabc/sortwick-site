@@ -2,7 +2,7 @@
 
 > Sortwick: Goods Sort Puzzle is a free goods sort (triple match) sorting puzzle game for iPhone and iPad. You move goods between shelves, match three of a kind to clear them, and spend the stars you win restoring Saltwick, a cozy seaside town. Android is in closed testing and is not released yet.
 
-Facts (checked 2026-11-17):
+Facts (checked 2026-11-18):
 
 - Name: Sortwick: Goods Sort Puzzle (short name: Sortwick). Website: https://sortwick.com/
 - Genre: goods sort / goods sorting / triple match / match 3 goods puzzle with a town restoration story. Category: Games, Puzzle, Casual. Age rating 4+.
@@ -10,7 +10,7 @@ Facts (checked 2026-11-17):
 - Android: closed testing on Google Play, not released. Testers can join at https://sortwick.com/test/
 - Price: free to download and play. Optional in-app purchases (coin packs, a Starter Pack, Remove Ads, Harbor VIP subscription, Harvest Pass Premium). Purchases never change a level's solution.
 - Ads: no forced ad in the first 100 levels and never after a loss; ads between levels are rare by design; reward videos are always optional; Remove Ads is a one-time purchase.
-- Offline: levels, the town and progress work with no internet and no account. Download size about 25 MB.
+- Offline: levels, the town and progress work with no internet and no account. Download size about 27 MB.
 - Rules: levels are limited by moves, not a countdown (only occasional Rush levels are timed). Every level is solvable. Obstacles ("tricks") are introduced one at a time: ice, locks, gifts, chains, crates, fog, belts, cracked shelves, chutes, carousels, counters, blizzards, order tickets. HARD, SUPER HARD and Storm levels.
 - Town: seven areas of Saltwick to restore, from Saltwick Harbor to the Harbor Lights Festival, then islands. Residents (Pip the harbor gull, Nan, Clementine the crab, Basil, Mara) move in and talk.
 - Also: Daily Challenge, weekly Sea Race, a 28-day season, card album, achievements, optional Game Center leaderboards.
@@ -57,7 +57,7 @@ Move goods between shelves and make sets of three to clear them. Every level is 
 
 ## Why it is different
 
-- A small download: About 25 MB. It installs in moments and leaves room for your photos.
+- A small download: About 27 MB. It installs in moments and leaves room for your photos.
 - Plays offline: No account and no connection needed: on the train, on a plane, anywhere.
 - Moves, not a countdown: Levels are limited by moves, so you can stop and think. Only the occasional Rush level runs on a clock.
 - No forced ads in the first 100 levels: Ads between levels are rare by design and never follow a loss. Reward videos are always your choice.
@@ -110,7 +110,7 @@ In Sortwick no ad interrupts the first 100 levels, and an ad never follows a los
 
 ### How is Sortwick different from other goods sorting games?
 
-Levels are limited by moves instead of a countdown (only the occasional Rush level runs on a clock), and every level is solvable. On top of that there is a town with residents who talk back, a small download of about 25 MB, and offline play.
+Levels are limited by moves instead of a countdown (only the occasional Rush level runs on a clock), and every level is solvable. On top of that there is a town with residents who talk back, a small download of about 27 MB, and offline play.
 
 ### How do lives work?
 
@@ -138,7 +138,7 @@ No personal data: there is no account, and we run no servers that receive your d
 
 ### Which devices and languages?
 
-iPhone with iOS 17 or later; it also runs on iPad. In English, German, French, Spanish, Italian, Portuguese (Brazil), Romanian, Japanese and Korean.
+iPhone and iPad with iOS 17 or later. In English, German, French, Spanish, Italian, Portuguese (Brazil), Romanian, Japanese and Korean.
 
 ### Are goods sort games the same as match 3 games?
 

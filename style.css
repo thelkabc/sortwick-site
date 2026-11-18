@@ -217,6 +217,7 @@ main.doc .getit{display:flex;flex-wrap:wrap;align-items:center;gap:.8rem 1.2rem;
 main.doc .getit p{margin:0;flex:1 1 14rem;font-weight:700}
 .press-shots{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:.8rem;list-style:none;padding:0;margin:1rem 0}
 .press-shots img{border-radius:12px;box-shadow:0 3px 10px var(--shadow)}
+.press-shots.press-wide{grid-template-columns:repeat(auto-fill,minmax(210px,1fr))}
 .grid{display:grid;gap:1rem}
 @media(min-width:40rem){.grid{grid-template-columns:1fr 1fr}}
 .card{background:var(--card);border-radius:18px;padding:1.1rem 1.2rem;border:1px solid var(--line)}
